@@ -8,7 +8,7 @@ reg[3:0] a_reg;
 reg[3:0] b_reg; 
 reg[7:0] product_reg; 
  
-always @(posedge a or negedge a) 
+always @(*) 
  begin
  a_reg <= a;
  b_reg <= b;
