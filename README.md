@@ -21,4 +21,5 @@ https://www.macnica.co.jp/assets/arc/article_files/117781/Verilog-HDL_Trial_Lab_
 * [【FPGA】Tutorial 演習問題を解きながら理解しようと。。演習２　４ビット乗算器【Verlog HDの基礎の基礎】](https://tom2rd.sakura.ne.jp/wp/2019/12/23/post-10876/)
 * [【FPGA】Tutorial 演習問題を解きながら理解しようと。。演習３マルチプレクサ【Verlog HDの基礎の基礎】](https://tom2rd.sakura.ne.jp/wp/2019/12/24/post-10899/)
 * [【FPGA】ModelSimのTutorial 。。演習４　７セグ・デコーダ【Verlog HDの基礎の基礎】](https://tom2rd.sakura.ne.jp/wp/2019/12/24/post-10904/)
+* [【FPGA】ModelSimのTutorial 。。演習5 非同期クリア & クロック・イネーブル付きフリップ・フロップ【Verlog HDの基礎の基礎】](https://tom2rd.sakura.ne.jp/wp/2019/12/24/post-10910/)
 
