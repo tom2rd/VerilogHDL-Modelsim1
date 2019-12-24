@@ -14,3 +14,7 @@ https://www.macnica.co.jp/business/semiconductor/articles/pdf/Verilog-HDL_Trial_
 https://www.macnica.co.jp/assets/arc/article_files/117781/Verilog-HDL_Trial_Lab_r1_download__2.zip
 
 ファイル名は　lab1-xxxx.v になっていますが、適当に変更して使ってください
+
+記事はこちらから
+*[【FPGA】Intel/Altera DE10 standard　メモ【リンク集】](https://tom2rd.sakura.ne.jp/wp/2019/12/13/post-10741/)
+
